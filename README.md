@@ -5,8 +5,8 @@ MNIST database is used as data set, and test set includes both standard test set
 Steps:
 1. cd code
 2. Train the network
-  -> python train.py
+  - python train.py
 3. Test on standard MNIST dataset
-  -> a mp4 video will be produced in the video folder
+  - a mp4 video will be produced in the video folder
 4. Test on custom images
-  -> images in the images folder will be processed and outputs displayed on console
+  - images in the images folder will be processed and outputs displayed on console
