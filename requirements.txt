@@ -1,1 +1,7 @@
-
+pip install tensorflow
+pip install opencv-python
+pip install easydict
+pip install matplotlib
+pip install tqdm
+pip install keras
+pip install seaborn
