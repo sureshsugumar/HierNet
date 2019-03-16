@@ -6,7 +6,7 @@ Steps:
 1. cd code
 2. Train the network
   -- python train.py
-  -- training stats will be displayed in console
+  (training stats will be displayed in console)
 3. Test on standard MNIST dataset
   -- python test.py
   -- a mp4 video will be produced in the video folder
