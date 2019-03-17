@@ -40,7 +40,7 @@ def main():
     with tf.Session(config=config) as sess:
         caps_net.saver.restore(sess, ckpt.model_checkpoint_path) 
  
-        for i in range(60):
+        for i in range(80):
             # Read images
             filename = '../images/img'
             filename += str(i)

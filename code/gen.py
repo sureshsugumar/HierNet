@@ -66,5 +66,19 @@ def main():
             filename += '.png'
             cv2.imwrite(filename, x5)
             
+        for i in range(60, 80):
+            n = np.random.randint(low=1, high=100)
+            angle = np.random.randint(low=-180, high=180)
+            x6 = test_images[n]
+            print(test_labels[n])
+            x6 = np.reshape(x6, [28, 28])
+            x6 = ndimage.rotate(x6, angle, reshape=False)
+            img_max, img_min = np.max(x6), np.min(x6)
+            x6 = 255. * (x6 - img_min) / (img_max - img_min)
+            filename = '../images/img'
+            filename += str(i)
+            filename += '.png'
+            cv2.imwrite(filename, x6)     
+            
 if __name__ == '__main__':
     main()

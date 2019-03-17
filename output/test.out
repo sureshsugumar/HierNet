@@ -1,0 +1,480 @@
+prediction for image  ../images/img0.png
+predicted: 1
+probability: 98%
+all predictions: [1 8 2 7 6 4 9 0 3 5]
+all probabilities: [0.97574526 0.95546705 0.92386085 0.92205447 0.87852174 0.8456066
+ 0.8419047  0.798082   0.69711983 0.63360965]
+prediction for image  ../images/img1.png
+predicted: 5
+probability: 98%
+all predictions: [5 2 7 3 8 6 4 9 1 0]
+all probabilities: [0.98448265 0.9072867  0.89368486 0.87172633 0.87019265 0.86573404
+ 0.80552983 0.7738794  0.74951786 0.70405227]
+prediction for image  ../images/img2.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 7 6 3 0 2 9 4 5]
+all probabilities: [0.98921394 0.96523994 0.94781077 0.91542614 0.83219385 0.79299605
+ 0.778694   0.75285804 0.7355544  0.6946656 ]
+prediction for image  ../images/img3.png
+predicted: 8
+probability: 97%
+all predictions: [8 7 5 0 4 1 6 2 9 3]
+all probabilities: [0.9691509  0.90412945 0.8908991  0.88038856 0.8742359  0.837446
+ 0.80077815 0.7993042  0.7733794  0.66825986]
+prediction for image  ../images/img4.png
+predicted: 7
+probability: 99%
+all predictions: [7 2 8 9 1 3 6 4 5 0]
+all probabilities: [0.9890281  0.9701503  0.9647171  0.92877203 0.89693683 0.88088775
+ 0.86591893 0.82857215 0.712394   0.6928376 ]
+prediction for image  ../images/img5.png
+predicted: 7
+probability: 99%
+all predictions: [7 2 3 4 0 5 8 9 1 6]
+all probabilities: [0.98518    0.9545459  0.91271156 0.90354955 0.86907023 0.8392652
+ 0.79300654 0.74787617 0.72268736 0.6837249 ]
+prediction for image  ../images/img6.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 6 3 7 4 9 0 5 2]
+all probabilities: [0.9894043  0.9488144  0.91626066 0.90343636 0.8897856  0.8369827
+ 0.7869465  0.78039837 0.7590115  0.74955475]
+prediction for image  ../images/img7.png
+predicted: 7
+probability: 99%
+all predictions: [7 9 2 8 4 3 0 6 1 5]
+all probabilities: [0.98869854 0.94539547 0.92837846 0.8837651  0.8610057  0.8088721
+ 0.79834545 0.79512656 0.7215247  0.6395598 ]
+prediction for image  ../images/img8.png
+predicted: 5
+probability: 97%
+all predictions: [5 6 4 3 8 2 9 7 1 0]
+all probabilities: [0.9717475  0.9385886  0.9371501  0.9073224  0.9051611  0.88483685
+ 0.8821882  0.80310977 0.787245   0.7512498 ]
+prediction for image  ../images/img9.png
+predicted: 7
+probability: 95%
+all predictions: [7 8 3 1 4 0 2 9 6 5]
+all probabilities: [0.95469445 0.9353935  0.91491526 0.9120499  0.89921105 0.8951675
+ 0.8921935  0.8790595  0.86126995 0.7620644 ]
+prediction for image  ../images/img10.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 9 3 6 7 2 0 4 5]
+all probabilities: [0.9904464  0.9772924  0.9180995  0.90456015 0.8643087  0.8199033
+ 0.7957537  0.7592698  0.6960435  0.6084618 ]
+prediction for image  ../images/img11.png
+predicted: 5
+probability: 97%
+all predictions: [5 6 4 3 8 2 9 7 1 0]
+all probabilities: [0.9717475  0.9385886  0.9371501  0.9073224  0.9051611  0.88483685
+ 0.8821882  0.80310977 0.787245   0.7512498 ]
+prediction for image  ../images/img12.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 7 6 2 0 4 9 3 5]
+all probabilities: [0.9869976  0.9325766  0.91421926 0.87566274 0.8673357  0.83278894
+ 0.8286769  0.673767   0.67268044 0.64593387]
+prediction for image  ../images/img13.png
+predicted: 2
+probability: 99%
+all predictions: [2 7 8 6 1 3 5 4 0 9]
+all probabilities: [0.9919745  0.91910744 0.9133787  0.9100233  0.8862979  0.8285709
+ 0.8256216  0.8078962  0.7830121  0.72551   ]
+prediction for image  ../images/img14.png
+predicted: 8
+probability: 97%
+all predictions: [8 7 5 0 4 1 6 2 9 3]
+all probabilities: [0.9691509  0.90412945 0.8908991  0.88038856 0.8742359  0.837446
+ 0.80077815 0.7993042  0.7733794  0.66825986]
+prediction for image  ../images/img15.png
+predicted: 4
+probability: 98%
+all predictions: [4 8 9 1 6 5 0 3 7 2]
+all probabilities: [0.97621554 0.9482087  0.9388739  0.92951506 0.9246279  0.8738402
+ 0.87077385 0.8259386  0.81118536 0.71544665]
+prediction for image  ../images/img16.png
+predicted: 8
+probability: 95%
+all predictions: [8 4 3 1 2 9 0 5 6 7]
+all probabilities: [0.95447    0.9283766  0.8902227  0.87082565 0.86124134 0.8367947
+ 0.8165333  0.80377024 0.79023045 0.7707108 ]
+prediction for image  ../images/img17.png
+predicted: 4
+probability: 98%
+all predictions: [4 6 8 7 1 9 5 2 3 0]
+all probabilities: [0.98383814 0.96706283 0.8808905  0.84381443 0.80305094 0.79513794
+ 0.7885206  0.78243375 0.7478591  0.6872628 ]
+prediction for image  ../images/img18.png
+predicted: 1
+probability: 98%
+all predictions: [1 8 6 9 2 7 3 0 5 4]
+all probabilities: [0.9842758  0.95810974 0.923197   0.89510924 0.8902479  0.87562466
+ 0.84578043 0.8076413  0.6795431  0.669527  ]
+prediction for image  ../images/img19.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 2 9 6 4 7 5 3 0]
+all probabilities: [0.98974085 0.9548052  0.9086918  0.90495145 0.8269956  0.7970278
+ 0.760767   0.7446883  0.6762792  0.6176311 ]
+prediction for image  ../images/img20.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 7 6 2 9 5 4 0 3]
+all probabilities: [0.99094975 0.9623614  0.92447895 0.90994036 0.8895212  0.8010681
+ 0.79870236 0.79477155 0.75853765 0.7315578 ]
+prediction for image  ../images/img21.png
+predicted: 4
+probability: 93%
+all predictions: [4 8 2 9 3 5 1 0 7 6]
+all probabilities: [0.9286602  0.92587614 0.9098688  0.8861871  0.88406664 0.8661491
+ 0.83152986 0.82891375 0.8113828  0.7850749 ]
+prediction for image  ../images/img22.png
+predicted: 3
+probability: 98%
+all predictions: [3 8 9 2 7 5 6 4 1 0]
+all probabilities: [0.9790598  0.9652459  0.9538975  0.94175017 0.89593464 0.86066407
+ 0.8016377  0.7992354  0.7566335  0.7557738 ]
+prediction for image  ../images/img23.png
+predicted: 6
+probability: 98%
+all predictions: [6 8 4 1 5 0 3 7 2 9]
+all probabilities: [0.9834814  0.9568321  0.9491975  0.93973416 0.9324091  0.9201605
+ 0.8812086  0.85176843 0.8175798  0.6966509 ]
+prediction for image  ../images/img24.png
+predicted: 1
+probability: 97%
+all predictions: [1 4 7 8 9 6 5 3 2 0]
+all probabilities: [0.96765757 0.9612137  0.95848894 0.91786003 0.9094285  0.88996655
+ 0.88416857 0.8543394  0.8531869  0.46899015]
+prediction for image  ../images/img25.png
+predicted: 8
+probability: 97%
+all predictions: [8 4 0 3 1 5 6 7 9 2]
+all probabilities: [0.96548265 0.9611352  0.91446716 0.86876994 0.8521654  0.84542614
+ 0.830843   0.82900536 0.82197183 0.807502  ]
+prediction for image  ../images/img26.png
+predicted: 2
+probability: 97%
+all predictions: [2 3 7 9 6 5 0 4 8 1]
+all probabilities: [0.9697077  0.9639648  0.9474442  0.9253451  0.9074098  0.89634347
+ 0.8777903  0.8762119  0.8542784  0.80526346]
+prediction for image  ../images/img27.png
+predicted: 3
+probability: 99%
+all predictions: [3 6 9 8 5 7 2 1 4 0]
+all probabilities: [0.98928386 0.9494576  0.9229563  0.91963595 0.9166268  0.9129684
+ 0.8982217  0.8481133  0.8068816  0.5870088 ]
+prediction for image  ../images/img28.png
+predicted: 8
+probability: 93%
+all predictions: [8 7 3 2 1 5 9 0 4 6]
+all probabilities: [0.92960286 0.9142085  0.90647274 0.89658105 0.8951619  0.88443583
+ 0.856103   0.81971854 0.7489821  0.684131  ]
+prediction for image  ../images/img29.png
+predicted: 0
+probability: 98%
+all predictions: [0 5 7 2 4 9 6 8 1 3]
+all probabilities: [0.9812618  0.9457878  0.8737215  0.8395062  0.83713    0.80978334
+ 0.7914847  0.7725105  0.7447974  0.73913455]
+prediction for image  ../images/img30.png
+predicted: 7
+probability: 93%
+all predictions: [7 5 8 9 2 1 0 4 6 3]
+all probabilities: [0.93053335 0.9127549  0.9121659  0.89950407 0.8834383  0.87925625
+ 0.8434024  0.8368713  0.8240998  0.78108746]
+prediction for image  ../images/img31.png
+predicted: 8
+probability: 96%
+all predictions: [8 2 7 9 5 6 3 4 1 0]
+all probabilities: [0.9620931  0.9381591  0.9364302  0.9078861  0.89511454 0.8937045
+ 0.8710478  0.8096282  0.79310143 0.7402996 ]
+prediction for image  ../images/img32.png
+predicted: 8
+probability: 95%
+all predictions: [8 7 9 2 6 5 3 0 1 4]
+all probabilities: [0.94995403 0.9205936  0.910935   0.9043616  0.88658977 0.8838469
+ 0.84786975 0.7726606  0.7715267  0.607178  ]
+prediction for image  ../images/img33.png
+predicted: 8
+probability: 97%
+all predictions: [8 1 9 3 5 7 4 6 0 2]
+all probabilities: [0.97245944 0.9619725  0.9549371  0.9485206  0.86213106 0.84811294
+ 0.81901926 0.7499679  0.7405134  0.70870674]
+prediction for image  ../images/img34.png
+predicted: 8
+probability: 97%
+all predictions: [8 3 7 1 5 9 4 6 2 0]
+all probabilities: [0.9739655  0.9563384  0.9535138  0.91733813 0.89795357 0.8829694
+ 0.86016077 0.8601586  0.7866508  0.7797381 ]
+prediction for image  ../images/img35.png
+predicted: 8
+probability: 96%
+all predictions: [8 4 2 6 5 3 0 1 9 7]
+all probabilities: [0.95833415 0.95740205 0.9003151  0.8940468  0.8856842  0.8705612
+ 0.8652823  0.8625415  0.85100764 0.67569995]
+prediction for image  ../images/img36.png
+predicted: 6
+probability: 98%
+all predictions: [6 8 3 5 0 4 7 2 1 9]
+all probabilities: [0.98483044 0.9455576  0.93571657 0.93544114 0.90653586 0.89728814
+ 0.8734166  0.8419418  0.76119906 0.66830647]
+prediction for image  ../images/img37.png
+predicted: 1
+probability: 98%
+all predictions: [1 8 2 9 7 6 3 5 4 0]
+all probabilities: [0.97951466 0.97136414 0.9405582  0.8927688  0.8411773  0.84034514
+ 0.83049756 0.82880116 0.7847615  0.61605084]
+prediction for image  ../images/img38.png
+predicted: 6
+probability: 98%
+all predictions: [6 8 5 1 4 3 9 0 7 2]
+all probabilities: [0.97827494 0.93144345 0.9148954  0.90719295 0.874378   0.85535383
+ 0.8233442  0.8133294  0.7087444  0.598899  ]
+prediction for image  ../images/img39.png
+predicted: 4
+probability: 97%
+all predictions: [4 8 3 7 5 9 1 6 2 0]
+all probabilities: [0.96707875 0.96645814 0.9423782  0.9022858  0.8931566  0.8888138
+ 0.8794894  0.8456559  0.83692324 0.75968105]
+prediction for image  ../images/img40.png
+predicted: 8
+probability: 97%
+all predictions: [8 6 3 2 0 1 4 5 9 7]
+all probabilities: [0.97070104 0.95810866 0.8932628  0.88048375 0.87963456 0.87141585
+ 0.8642295  0.84406996 0.81730574 0.7918144 ]
+prediction for image  ../images/img41.png
+predicted: 9
+probability: 97%
+all predictions: [9 0 2 7 5 3 4 8 6 1]
+all probabilities: [0.9739479  0.9727903  0.95168495 0.9448099  0.94270635 0.90418535
+ 0.89134157 0.8561367  0.8201536  0.81147116]
+prediction for image  ../images/img42.png
+predicted: 8
+probability: 95%
+all predictions: [8 7 2 5 0 3 4 1 9 6]
+all probabilities: [0.9496832  0.9465123  0.9029875  0.8680061  0.86315215 0.86301863
+ 0.8358022  0.8319401  0.80284524 0.7367906 ]
+prediction for image  ../images/img43.png
+predicted: 8
+probability: 97%
+all predictions: [8 2 4 6 7 3 1 9 5 0]
+all probabilities: [0.9682171  0.933205   0.9090635  0.9004669  0.8943304  0.8857738
+ 0.8610189  0.8589128  0.79835904 0.65632445]
+prediction for image  ../images/img44.png
+predicted: 8
+probability: 96%
+all predictions: [8 6 4 3 5 9 1 0 2 7]
+all probabilities: [0.95982134 0.93458486 0.9306499  0.9059527  0.8815882  0.8540566
+ 0.84952825 0.8464635  0.75531787 0.67980754]
+prediction for image  ../images/img45.png
+predicted: 8
+probability: 98%
+all predictions: [8 2 0 9 6 1 5 3 7 4]
+all probabilities: [0.9779855  0.9760845  0.93648756 0.9295085  0.9221705  0.8955043
+ 0.89002836 0.8886889  0.85086274 0.76148564]
+prediction for image  ../images/img46.png
+predicted: 3
+probability: 99%
+all predictions: [3 8 7 1 5 0 6 9 4 2]
+all probabilities: [0.9857197  0.9629064  0.94455487 0.9379252  0.93228513 0.88152266
+ 0.8754157  0.8362354  0.7441743  0.72001374]
+prediction for image  ../images/img47.png
+predicted: 8
+probability: 96%
+all predictions: [8 3 7 5 9 2 0 1 6 4]
+all probabilities: [0.9581236  0.9251951  0.914095   0.91252    0.8947372  0.88948023
+ 0.86820096 0.85385364 0.8278205  0.75705975]
+prediction for image  ../images/img48.png
+predicted: 4
+probability: 98%
+all predictions: [4 2 5 9 6 0 8 3 1 7]
+all probabilities: [0.9806365  0.9231026  0.9180348  0.91259617 0.910906   0.9059884
+ 0.89305365 0.8574864  0.8363097  0.79420954]
+prediction for image  ../images/img49.png
+predicted: 8
+probability: 97%
+all predictions: [8 0 7 2 1 5 3 9 4 6]
+all probabilities: [0.9717134  0.970247   0.9332145  0.91845596 0.91669494 0.8954312
+ 0.8512111  0.846961   0.820662   0.759616  ]
+prediction for image  ../images/img50.png
+predicted: 1
+probability: 97%
+all predictions: [1 8 7 0 2 5 3 4 9 6]
+all probabilities: [0.968395   0.9539289  0.9508804  0.9344922  0.8928024  0.8832862
+ 0.8827547  0.8245374  0.8089042  0.80661255]
+prediction for image  ../images/img51.png
+predicted: 0
+probability: 95%
+all predictions: [0 8 3 2 5 9 6 7 4 1]
+all probabilities: [0.95480317 0.951746   0.90637445 0.8876455  0.87583023 0.8651454
+ 0.835835   0.82173115 0.79505354 0.7203184 ]
+prediction for image  ../images/img52.png
+predicted: 0
+probability: 97%
+all predictions: [0 8 4 7 2 9 5 6 1 3]
+all probabilities: [0.9701493  0.9575826  0.919597   0.8880923  0.86607254 0.8566852
+ 0.84873295 0.8466074  0.8422213  0.8084979 ]
+prediction for image  ../images/img53.png
+predicted: 8
+probability: 97%
+all predictions: [8 4 9 6 5 3 1 2 7 0]
+all probabilities: [0.96969193 0.9263391  0.91563654 0.8645041  0.8612199  0.8460957
+ 0.8365524  0.7779007  0.70176077 0.6542546 ]
+prediction for image  ../images/img54.png
+predicted: 3
+probability: 98%
+all predictions: [3 8 7 1 9 5 4 6 0 2]
+all probabilities: [0.9794642  0.9642406  0.95540166 0.95403314 0.9361978  0.8969517
+ 0.8870592  0.8635512  0.8059643  0.76889443]
+prediction for image  ../images/img55.png
+predicted: 1
+probability: 99%
+all predictions: [1 8 9 7 3 2 6 5 0 4]
+all probabilities: [0.98900783 0.9773775  0.9598576  0.9249425  0.9206107  0.911542
+ 0.90433574 0.76282066 0.73930025 0.6953565 ]
+prediction for image  ../images/img56.png
+predicted: 1
+probability: 96%
+all predictions: [1 8 7 4 9 5 3 6 2 0]
+all probabilities: [0.96265084 0.944607   0.9284129  0.9215186  0.8989585  0.8647153
+ 0.83293504 0.8266353  0.7899518  0.6923769 ]
+prediction for image  ../images/img57.png
+predicted: 8
+probability: 94%
+all predictions: [8 7 5 4 3 6 9 0 1 2]
+all probabilities: [0.93707883 0.9314254  0.9091818  0.8875361  0.8787516  0.87182045
+ 0.85779524 0.8280918  0.82057226 0.81944454]
+prediction for image  ../images/img58.png
+predicted: 8
+probability: 97%
+all predictions: [8 3 7 1 9 5 2 6 4 0]
+all probabilities: [0.9731468  0.9610169  0.93597656 0.9112094  0.8686793  0.8601914
+ 0.85391706 0.7995733  0.74567705 0.7099371 ]
+prediction for image  ../images/img59.png
+predicted: 2
+probability: 98%
+all predictions: [2 3 7 5 9 8 1 4 6 0]
+all probabilities: [0.9783668  0.9572677  0.9545226  0.95451665 0.9349795  0.809365
+ 0.8022257  0.7830912  0.7040923  0.66641307]
+prediction for image  ../images/img60.png
+predicted: 6
+probability: 95%
+all predictions: [6 8 2 9 5 4 1 3 7 0]
+all probabilities: [0.95276034 0.9003286  0.88558024 0.8802773  0.87111926 0.8674143
+ 0.8461934  0.7992309  0.797042   0.6985918 ]
+prediction for image  ../images/img61.png
+predicted: 0
+probability: 99%
+all predictions: [0 5 6 2 7 8 9 3 1 4]
+all probabilities: [0.98863137 0.9153494  0.8678367  0.8614365  0.85877407 0.83795285
+ 0.80311006 0.77196085 0.7640979  0.69642556]
+prediction for image  ../images/img62.png
+predicted: 0
+probability: 97%
+all predictions: [0 7 5 9 8 2 3 6 1 4]
+all probabilities: [0.9652481  0.9590092  0.91802424 0.9088923  0.9051263  0.86728173
+ 0.86552197 0.8272172  0.80982965 0.7642697 ]
+prediction for image  ../images/img63.png
+predicted: 6
+probability: 98%
+all predictions: [6 5 8 4 3 7 0 1 9 2]
+all probabilities: [0.9788486  0.9362934  0.9340019  0.9264954  0.9091247  0.8974998
+ 0.8741239  0.7906445  0.78659797 0.7525665 ]
+prediction for image  ../images/img64.png
+predicted: 4
+probability: 95%
+all predictions: [4 7 3 2 1 8 6 0 5 9]
+all probabilities: [0.94786006 0.94541454 0.92895263 0.89923656 0.89701366 0.8839864
+ 0.8470345  0.8243932  0.8120511  0.78688824]
+prediction for image  ../images/img65.png
+predicted: 5
+probability: 94%
+all predictions: [5 6 7 8 1 4 2 9 3 0]
+all probabilities: [0.9433108  0.93815273 0.92012817 0.9126945  0.8833636  0.87631536
+ 0.8238434  0.8026824  0.77422804 0.7004734 ]
+prediction for image  ../images/img66.png
+predicted: 8
+probability: 97%
+all predictions: [8 4 6 3 2 9 0 1 5 7]
+all probabilities: [0.96554685 0.95415336 0.9231792  0.9135857  0.9095823  0.9017566
+ 0.8886918  0.8629058  0.8061811  0.7885201 ]
+prediction for image  ../images/img67.png
+predicted: 0
+probability: 97%
+all predictions: [0 8 2 9 1 7 5 6 4 3]
+all probabilities: [0.96958643 0.9602664  0.95155567 0.933068   0.8967094  0.837027
+ 0.81282747 0.7949382  0.7893005  0.69933987]
+prediction for image  ../images/img68.png
+predicted: 2
+probability: 98%
+all predictions: [2 8 6 7 3 5 0 1 9 4]
+all probabilities: [0.98313665 0.9513671  0.9319337  0.9270754  0.897302   0.878312
+ 0.8537497  0.8246454  0.7593642  0.7462992 ]
+prediction for image  ../images/img69.png
+predicted: 7
+probability: 94%
+all predictions: [7 3 8 5 1 4 6 9 0 2]
+all probabilities: [0.94204617 0.93691176 0.9129495  0.905978   0.8916577  0.8812039
+ 0.8776188  0.8514278  0.81355894 0.76222485]
+prediction for image  ../images/img70.png
+predicted: 0
+probability: 97%
+all predictions: [0 8 9 2 5 1 6 3 7 4]
+all probabilities: [0.96929693 0.9651223  0.9389848  0.9366871  0.9156597  0.8810423
+ 0.8787685  0.84486824 0.8310017  0.8052023 ]
+prediction for image  ../images/img71.png
+predicted: 8
+probability: 96%
+all predictions: [8 9 6 4 5 3 7 2 0 1]
+all probabilities: [0.9554062  0.93711954 0.91444194 0.90297467 0.86778647 0.8225607
+ 0.8004769  0.7769353  0.76726204 0.74103713]
+prediction for image  ../images/img72.png
+predicted: 8
+probability: 96%
+all predictions: [8 9 4 7 0 1 6 3 5 2]
+all probabilities: [0.9634562  0.9226117  0.9211284  0.9185705  0.91195315 0.9008066
+ 0.88870305 0.8133605  0.807901   0.76372933]
+prediction for image  ../images/img73.png
+predicted: 0
+probability: 96%
+all predictions: [0 6 8 5 9 7 1 2 4 3]
+all probabilities: [0.95834893 0.94421065 0.9394629  0.9004855  0.89699286 0.8582193
+ 0.81560946 0.80999774 0.80332804 0.66248304]
+prediction for image  ../images/img74.png
+predicted: 0
+probability: 99%
+all predictions: [0 9 8 5 4 6 2 3 1 7]
+all probabilities: [0.9864362  0.9537408  0.9503075  0.88423634 0.85283977 0.83547395
+ 0.7754633  0.76165307 0.70005304 0.6409369 ]
+prediction for image  ../images/img75.png
+predicted: 4
+probability: 95%
+all predictions: [4 0 1 7 2 9 8 6 5 3]
+all probabilities: [0.95390904 0.9374167  0.90980405 0.8859324  0.8415391  0.8399631
+ 0.82190555 0.81241995 0.7541861  0.7311476 ]
+prediction for image  ../images/img76.png
+predicted: 0
+probability: 98%
+all predictions: [0 8 9 4 5 3 6 7 2 1]
+all probabilities: [0.9756505  0.9623279  0.9069146  0.8737885  0.85356104 0.84418106
+ 0.77736604 0.7596575  0.7484839  0.7232028 ]
+prediction for image  ../images/img77.png
+predicted: 4
+probability: 98%
+all predictions: [4 5 6 7 3 8 0 2 9 1]
+all probabilities: [0.97964954 0.9405495  0.938576   0.9020171  0.88232577 0.8742705
+ 0.8551729  0.85428405 0.8444629  0.70727533]
+prediction for image  ../images/img78.png
+predicted: 0
+probability: 99%
+all predictions: [0 2 7 5 4 6 1 3 8 9]
+all probabilities: [0.98796755 0.94003046 0.92371964 0.88625914 0.7908393  0.7767205
+ 0.7691452  0.7287406  0.72476846 0.7037006 ]
+prediction for image  ../images/img79.png
+predicted: 8
+probability: 95%
+all predictions: [8 9 1 6 0 3 5 2 7 4]
+all probabilities: [0.9486728  0.92833334 0.90979403 0.8920711  0.8885109  0.87856275
+ 0.86318785 0.806072   0.7951006  0.7805071 ]
