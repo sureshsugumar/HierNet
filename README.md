@@ -11,4 +11,7 @@ Steps:
 4. Test on custom images
   -- python test_image.py  (images in the images folder will be processed and outputs displayed on console)
 
-Acknowledgements: This project has referenced many other respositories for code and reused with major modifications. My sincere thanks to all of them, without which this project would not have existed.
+Acknowledgements: This project has referenced many other respositories for code, and reused some of the code with extensive modifications. My sincere thanks to all of those repository authors, without which this project would not have existed. This is a open community anyway!
+
+Cheers
+Suresh
