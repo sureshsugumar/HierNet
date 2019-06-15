@@ -10,3 +10,5 @@ Steps:
   -- python test.py  (a mp4 video will be produced in the video folder)
 4. Test on custom images
   -- python test_image.py  (images in the images folder will be processed and outputs displayed on console)
+
+Acknowledgements: This project has referenced many other respositories for code and reused with major modifications. My sincere thanks to all of them, without which this project would not have existed.
